@@ -11,8 +11,8 @@
     <groupId>com.youtube</groupId>
     <artifactId>jwt</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>jwt-youtube</name>
-    <description>Demo project to understand JWT token + role based authentication</description>
+    <name>jwt-authenticate</name>
+    <description>Jwt token generation</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
