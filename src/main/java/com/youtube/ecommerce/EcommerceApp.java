@@ -1,13 +1,13 @@
-package com.youtube.jwt;
+package com.youtube.ecommerce;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class jwtauthentication {
+public class EcommerceApp {
 
     public static void main(String[] args) {
-        SpringApplication.run(jwtauthentication.class, args);
+        SpringApplication.run(EcommerceApp.class, args);
     }
 
 }
